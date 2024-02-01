@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/shodi/Projeto-Integrador-III/commit/af6369cec4bacd18e809b6c3e78b03c3dc65917c\"><strong>a</strong>f6369cec4bacd18e809b6c3e78b03c3dc65917c</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/a-commit.png?raw=true"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/GustavoDiogo/senac/commit/ab18c920c36119ca7d0539b411c5e860627c649a\"><strong>ab</strong>18c920c36119ca7d0539b411c5e860627c649a</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ufabc-processamento-linguagem-natural/commit/0e2ed3cf089db71c267505019c3abebfdbeae86c\">0e2ed3c</a>\n- <a href=\"https://github.com/GustavoDiogo/ufabc-processamento-linguagem-natural/commit/5f4de04cdf35bb3ad347780a92c221c085dc3318\">5f4de04</a>\n- <a href=\"https://github.com/GustavoDiogo/ufabc-processamento-linguagem-natural/commit/b0d07ba9f529369f55140f477e8fec0b83997ee2\">b0d07ba</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/0b3ff8e6616636e5f353e23d0ac2b5a9dbd186f1\">0b3ff8e</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/4a22bb942cef99380c991602ad2fcc5cbcf60316\">4a22bb9</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/2f11da28485f28d2ac9ba8c91ca7de4a09cb9ac3\">2f11da2</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/senac-projeto-integrador-2/commit/27d03cd3ecf799c23a90d3ad95172ab2e542e601\">27d03cd</a>\n- <a href=\"https://github.com/GustavoDiogo/senac-calculo-iqa/commit/1c3df2529b3e47ce0f7aa0ea159a35f1bfe88c4e\">1c3df25</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/midnight-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/github-anniversary/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/covid-19/covid-19.png?raw=true"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/public-keys/public-keys-1.png?raw=true"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 59 times)\n2. files (used 59 times)\n3. via (used 59 times)\n4. upload (used 59 times)\n5. update (used 58 times)",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
+  }
+]
