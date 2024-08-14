@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ufabc-processamento-linguagem-natural/commit/0e2ed3cf089db71c267505019c3abebfdbeae86c\">0e2ed3c</a>\n- <a href=\"https://github.com/GustavoDiogo/ufabc-processamento-linguagem-natural/commit/5f4de04cdf35bb3ad347780a92c221c085dc3318\">5f4de04</a>\n- <a href=\"https://github.com/GustavoDiogo/ufabc-processamento-linguagem-natural/commit/b0d07ba9f529369f55140f477e8fec0b83997ee2\">b0d07ba</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/0b3ff8e6616636e5f353e23d0ac2b5a9dbd186f1\">0b3ff8e</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/4a22bb942cef99380c991602ad2fcc5cbcf60316\">4a22bb9</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/2f11da28485f28d2ac9ba8c91ca7de4a09cb9ac3\">2f11da2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/0b3ff8e6616636e5f353e23d0ac2b5a9dbd186f1\">0b3ff8e</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/4a22bb942cef99380c991602ad2fcc5cbcf60316\">4a22bb9</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/2f11da28485f28d2ac9ba8c91ca7de4a09cb9ac3\">2f11da2</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/5a0c19c9ae1879e1092d6abb5e8a34cc44e5f264\">5a0c19c</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/3d266e8c6befeecde2742c4eb1f129e6ed786cca\">3d266e8</a>\n- <a href=\"https://github.com/GustavoDiogo/lexical-analyzer/commit/71c0b931088869fe5954b711d24aeed67011a8d9\">71c0b93</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -51,8 +51,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 59 times)\n2. files (used 59 times)\n3. via (used 59 times)\n4. upload (used 59 times)\n5. update (used 58 times)",
+    "desc": "My favorite word is \"readme.md\".",
+    "body": "My favorite commit message words are:\n\n1. readme.md (used 14 times)\n2. update (used 8 times)\n3. atualiza (used 6 times)\n4. readme (used 5 times)\n5. para (used 5 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
