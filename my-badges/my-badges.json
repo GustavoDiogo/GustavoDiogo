@@ -7,25 +7,11 @@
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/GustavoDiogo/senac/commit/ab18c920c36119ca7d0539b411c5e860627c649a\"><strong>ab</strong>18c920c36119ca7d0539b411c5e860627c649a</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/2e1efee303ceb69a236428f05df804a16e5164aa\">2e1efee</a>\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/cab8f5801f31e0d14d38cb7b759b29610f226cdf\">cab8f58</a>\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/29730b96884ebc8b7500a21fe667d80243149532\">29730b9</a>\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/482c1efc5ffa2dc29dd28388fc822a90262c9fef\">482c1ef</a>\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/3ad21c7df8457d1f5053da19715c9e5aac4d9b2e\">3ad21c7</a>\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/bd5fc1612f2706b82df8a88ce3367a5d568e6c2d\">bd5fc16</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/9fe6073f0f5f2494d1817963a9c2a54a1f10da9b\">9fe6073</a>\n- <a href=\"https://github.com/GustavoDiogo/dotfiles/commit/0dcc559a11057a8d3f5f854882e8b29c08e25bea\">0dcc559</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/6036023038925e55d962d3b2dc6db5d7fae8d784\">6036023</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/7de5e60c5f0a92ae0e77c764ecd403ed8d5beb4c\">7de5e60</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/df3fb9daecaac0e576ffc6d10010d3bc3257c0a5\">df3fb9d</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/215987c9414eacef52991888543b3dab4c84431b\">215987c</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/senac-projeto-integrador-2/commit/27d03cd3ecf799c23a90d3ad95172ab2e542e601\">27d03cd</a>\n- <a href=\"https://github.com/GustavoDiogo/senac-calculo-iqa/commit/1c3df2529b3e47ce0f7aa0ea159a35f1bfe88c4e\">1c3df25</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "github-anniversary-5",
@@ -42,24 +28,52 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"readme.md\".",
-    "body": "My favorite commit message words are:\n\n1. readme.md (used 13 times)\n2. update (used 8 times)\n3. to (used 8 times)\n4. adds (used 8 times)\n5. changes (used 6 times)",
+    "desc": "My favorite word is \"adds\".",
+    "body": "My favorite commit message words are:\n\n1. adds (used 52 times)\n2. readme.md (used 20 times)\n3. o (used 12 times)\n4. fix (used 11 times)\n5. fixes (used 10 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
-    "id": "public-keys-2",
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/7de5e60c5f0a92ae0e77c764ecd403ed8d5beb4c\">7de5e60</a>: chore: fixes README.md and adds CONTRIBUTING.md",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/dotfiles/commit/c4c4fa2acfeeb16d582a36438b92a749c8659baf\">c4c4fa2</a>: Fix foder permission issues\n- <a href=\"https://github.com/GustavoDiogo/dotfiles/commit/770be7b0357bd84739c7f6f10d4b1a536dbbb3e1\">770be7b</a>: Fix foder permission issues",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/2e1efee303ceb69a236428f05df804a16e5164aa\">2e1efee</a>\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/cab8f5801f31e0d14d38cb7b759b29610f226cdf\">cab8f58</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/1d157280208d3f175b8ccf38dc6239d1ddf41003\">1d15728</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
     "tier": 2,
-    "desc": "I have two public keys",
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/1d157280208d3f175b8ccf38dc6239d1ddf41003\">1d15728</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
     "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
