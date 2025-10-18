@@ -75,5 +75,12 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/GustavoDiogo/ply-js\">GustavoDiogo/ply-js</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
