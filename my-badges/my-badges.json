@@ -10,7 +10,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/9fe6073f0f5f2494d1817963a9c2a54a1f10da9b\">9fe6073</a>\n- <a href=\"https://github.com/GustavoDiogo/dotfiles/commit/0dcc559a11057a8d3f5f854882e8b29c08e25bea\">0dcc559</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/6036023038925e55d962d3b2dc6db5d7fae8d784\">6036023</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/7de5e60c5f0a92ae0e77c764ecd403ed8d5beb4c\">7de5e60</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/df3fb9daecaac0e576ffc6d10010d3bc3257c0a5\">df3fb9d</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/215987c9414eacef52991888543b3dab4c84431b\">215987c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/26d33a06f48bb88948db4dbec241b27c40875228\">26d33a0</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/8ec461d294e98f54beb9ddc965dde08c63658784\">8ec461d</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/9fe6073f0f5f2494d1817963a9c2a54a1f10da9b\">9fe6073</a>\n- <a href=\"https://github.com/GustavoDiogo/dotfiles/commit/0dcc559a11057a8d3f5f854882e8b29c08e25bea\">0dcc559</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/6036023038925e55d962d3b2dc6db5d7fae8d784\">6036023</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/7de5e60c5f0a92ae0e77c764ecd403ed8d5beb4c\">7de5e60</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"adds\".",
-    "body": "My favorite commit message words are:\n\n1. adds (used 52 times)\n2. readme.md (used 20 times)\n3. o (used 12 times)\n4. fix (used 11 times)\n5. fixes (used 10 times)",
+    "body": "My favorite commit message words are:\n\n1. adds (used 55 times)\n2. readme.md (used 20 times)\n3. o (used 12 times)\n4. fix (used 11 times)\n5. fixes (used 10 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -82,5 +82,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/GustavoDiogo/ply-js\">GustavoDiogo/ply-js</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/26d33a06f48bb88948db4dbec241b27c40875228\">26d33a0</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/8ec461d294e98f54beb9ddc965dde08c63658784\">8ec461d</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
