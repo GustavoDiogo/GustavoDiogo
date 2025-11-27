@@ -1,3 +1,42 @@
+# 👋 Hey, I'm **Gustavo Diogo Silva**
+
+## 🧑‍💻 About Me
+
+I’m a **Full Stack Developer** with strong experience building scalable, cloud-native applications using **Node.js**, **React**, **AWS**, and **GCP**.
+I’ve led teams, designed architectures, and worked on mission-critical systems, from transportation networks to telehealth platforms.
+I bring a mix of **hands-on coding**, **technical leadership**, and **DevOps expertise**. 
+
+---
+
+## ⚒️ Tech Stack & Specialties
+
+### **Backend**
+
+* 🟦 Node.js (TypeScript): NestJS, GraphQL, Drizzle, Prisma, TS-Rest
+* 🦫 Golang (Chi, GraphiQL)
+* 🐍 Python (scripts & automation)
+* 🗄 PostgreSQL • MySQL • MSSQL
+* 📦 DynamoDB • Firestore
+* 🔎 Elasticsearch • AWS OpenSearch
+* 🧪 Jest • Testify • SQLMock
+
+
+### **Frontend**
+
+* ⚛️ React.js (Next.js, Apollo, Tailwind, MUI)
+* 📱 React Native
+* 🖥 Electron.js
+
+
+### **Cloud & DevOps**
+
+* ☁️ **AWS** (Lambda, SQS, S3, RDS, SNS, ECS, Cognito, Kinesis, API Gateway, Route 53, CloudFront, Chime)
+* 🔥 **GCP** (Firebase, Cloud Functions, Cloud Storage)
+* 🐳 Docker • Kubernetes (EKS)
+* 🏗 Terraform • AWS CDK • Serverless • CI/CD (GitHub, Azure Pipelines)
+
+## 📈 GitHub Stats
+
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
@@ -14,5 +53,4 @@
 <a href="my-badges/spooky-commit.md"><img src="https://my-badges.github.io/my-badges/spooky-commit.png" alt="I committed on the Halloween! Boo!" title="I committed on the Halloween! Boo!" width="64"></a>
 <!-- my-badges end -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDiogo&layout=donut)
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDiogo\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDiogo&exclude_repo=github-readme-stats,GustavoDiogo.github.io)
