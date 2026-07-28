@@ -44,4 +44,4 @@ I bring a mix of **hands-on coding**, **technical leadership**, and **DevOps exp
 <a href="my-badges/github-anniversary-10.md"><img src="https://my-badges.github.io/my-badges/github-anniversary-10.png" alt="I joined GitHub 10 years ago." title="I joined GitHub 10 years ago." width="64"></a>
 <!-- my-badges end -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDiogo&exclude_repo=github-readme-stats,GustavoDiogo.github.io)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=GustavoDiogo&langs_count=4)
