@@ -1,19 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/shodi/Projeto-Integrador-III/commit/af6369cec4bacd18e809b6c3e78b03c3dc65917c\"><strong>a</strong>f6369cec4bacd18e809b6c3e78b03c3dc65917c</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/dotfiles/commit/ed085eab0fe32e7b0095b2c1130753bd9ed678f9\">ed085ea</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/26d33a06f48bb88948db4dbec241b27c40875228\">26d33a0</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/8ec461d294e98f54beb9ddc965dde08c63658784\">8ec461d</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/9fe6073f0f5f2494d1817963a9c2a54a1f10da9b\">9fe6073</a>\n- <a href=\"https://github.com/GustavoDiogo/dotfiles/commit/0dcc559a11057a8d3f5f854882e8b29c08e25bea\">0dcc559</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/6036023038925e55d962d3b2dc6db5d7fae8d784\">6036023</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
@@ -28,67 +14,11 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"adds\".",
-    "body": "My favorite commit message words are:\n\n1. adds (used 57 times)\n2. readme.md (used 20 times)\n3. fix (used 12 times)\n4. o (used 12 times)\n5. version (used 10 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/7de5e60c5f0a92ae0e77c764ecd403ed8d5beb4c\">7de5e60</a>: chore: fixes README.md and adds CONTRIBUTING.md",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/dotfiles/commit/c4c4fa2acfeeb16d582a36438b92a749c8659baf\">c4c4fa2</a>: Fix foder permission issues\n- <a href=\"https://github.com/GustavoDiogo/dotfiles/commit/770be7b0357bd84739c7f6f10d4b1a536dbbb3e1\">770be7b</a>: Fix foder permission issues",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/2e1efee303ceb69a236428f05df804a16e5164aa\">2e1efee</a>\n- <a href=\"https://github.com/GustavoDiogo/grpc-dht-file-system/commit/cab8f5801f31e0d14d38cb7b759b29610f226cdf\">cab8f58</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/1d157280208d3f175b8ccf38dc6239d1ddf41003\">1d15728</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/1d157280208d3f175b8ccf38dc6239d1ddf41003\">1d15728</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
     "id": "public-keys-3",
     "tier": 3,
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/GustavoDiogo/ply-js\">GustavoDiogo/ply-js</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/26d33a06f48bb88948db4dbec241b27c40875228\">26d33a0</a>\n- <a href=\"https://github.com/GustavoDiogo/ply-js/commit/8ec461d294e98f54beb9ddc965dde08c63658784\">8ec461d</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
     "id": "github-anniversary-10",
